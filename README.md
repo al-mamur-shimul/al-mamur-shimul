@@ -1,5 +1,17 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<hr/>
 <h1 align="center">
   <b>Abdullah Al Mamur Shimul</b>
+  <p>
+<div align="center">
+<a target="_blank" href="https://www.linkedin.com/in/abdullah-al-mamur/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://github.com/al-mamur-shimul"><img src="https://img.shields.io/badge/-GitHub-c58545?style=flat&logo=github&labelColor=282828"></img></a>
+<!-- <a target="_blank" href="https://www.linkedin.com/in/abdullah-al-mamur/"><img src="https://img.shields.io/badge/-Resume-0077B5?style=flat&logo=libreoffice&logoColor=white"></img></a> -->
+</div>
+</p>
 </h1 algn="center">
 
 HI! I'm Abdullah Al Mamur, a software engineer living in Dhaka, Bangladesh (UTC +6). 
@@ -7,12 +19,7 @@ I'm developing cross platform and native mobile apps for <a href="https://audaci
 also learning ios programming with swift through small projects  on the side.
 
 <br>
-
-<!-- ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/al-mamur-shimul/count.svg) -->
-
-
-### 🛠 &nbsp;Language and Framework
+🛠 &nbsp;Language and Framework I Code
 
 <p>
 <div align="left">
@@ -48,20 +55,6 @@ also learning ios programming with swift through small projects  on the side.
 </p>
 
 
-<!-- ```python
-class AbdullahAlMamurShimul():
-    
-  def __init__(self):
-    self.name = "Abdullah Al Mamur";
-    self.username = "al-mamur-shimul";
-    self.location = "Dhaka, Bangladesh (UTC +6)";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = AbdullahAlMamurShimul()
-``` -->
 
 ## My Statistics
 
@@ -70,7 +63,6 @@ if __name__ == '__main__':
   <a href="https://github.com/al-mamur-shimul">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=al-mamur-shimul&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=al-mamur-shimul&theme=gruvbox&hide_border=true" />
-    <!-- <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=al-mamur-shimul&show_icons=true&theme=gruvbox&hide_border=true" /> -->
   </a>
 </p>
 <br>
