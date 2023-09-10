@@ -15,7 +15,7 @@
 </h1 algn="center">
 
 HI! I'm Abdullah Al Mamur, a software engineer living in Dhaka, Bangladesh (UTC +6). 
-I'm developing cross platform and native mobile apps for <a href="https://vivasoftltd.com/">Vivasoft Limited.</a>, 
+I'm developing cross platform and native mobile apps for <a href="https://vivasoftltd.com/">Vivasoft Limited</a>, 
 also learning ios programming with swift through small projects  on the side.
 
 <br>
