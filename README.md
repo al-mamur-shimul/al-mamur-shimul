@@ -56,7 +56,7 @@ also learning ios programming with swift through small projects  on the side.
 
 
 
-## My Statistics
+<!-- ## My Statistics
 
 <br/>
 <p align="left">
@@ -66,6 +66,7 @@ also learning ios programming with swift through small projects  on the side.
   </a>
 </p>
 <br>
+-->
 
 
 <!-- [![Abdullah Al Mamur' Activity Graph](https://activity-graph.herokuapp.com/graph?username=al-mamur-shimul&custom_title=Abdullah%20Al%20Mamur's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](#) -->
